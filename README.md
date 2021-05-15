@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rafinhao11
-- 👀 I’m interested in Data Analytics, Data Science, Business Inteligence, solving problems and how to make this world better with techonology.
+- 👀 I’m interested in Data Analytics, Data Science, Business Inteligence, solving problems and how to make this world better with technology.
 - 🌱 I’m currently learning Bachelor's Degree of Information Systems
 - 💞️ I’m looking to collaborate on your company!
 - 📫 How to reach me Linkedin (@rafaelo11)
